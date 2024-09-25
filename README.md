@@ -185,18 +185,19 @@ b. Jalankan script tersebut sebagai berikut :
 
 **$ ./p1.sh &**
 
-
+![no 4b (bagian 2)](https://github.com/user-attachments/assets/27725b0e-9162-4f53-a70c-da4cf349637e)
 
 
 
 **$ ./p1.sh $ ./p2.sh & ./p3.sh &**
 
+![no 4b (bagian 3)](https://github.com/user-attachments/assets/c0fdf112-b6d5-43df-8326-1fcc51a27db4)
 
 
 
+**$ ( ./p1.sh ; ./p3.sh ) &**
 
-$ ( ./p1.sh ; ./p3.sh ) &
-
+![no 4b (bagian 4)](https://github.com/user-attachments/assets/68003681-b77a-4e8b-982d-0834edfb7efe)
 
 
 
