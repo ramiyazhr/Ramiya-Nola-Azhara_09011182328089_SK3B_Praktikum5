@@ -1,4 +1,4 @@
-# PRAKTIKUM 4 Job Control
+# PRAKTIKUM 5 Job Control
 
 ## Nama : Ramiya Nola Azhara
 ## Kelas : SK3B
@@ -11,7 +11,9 @@ a. Edit file profile /etc/profile dan tampilkan pesan sebagai berikut :
 **echo “Profile dari /etc/profile”**
 
 
-![no 1](https://github.com/user-attachments/assets/81f2bc64-d5d0-4651-84d7-fbc2a30ee00a)
+    ![no 1](https://github.com/user-attachments/assets/81f2bc64-d5d0-4651-84d7-fbc2a30ee00a)
+
+  
 
 
 b. Asumsi nama anda stD02001, maka edit semua profile yang ada yaitu :
