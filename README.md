@@ -53,6 +53,7 @@ bersangkutan.
 ![no 1 (sudo nano profile)](https://github.com/user-attachments/assets/0ea3a9ac-dcbc-4045-bd4f-e668bc4b5a91)
 
 
+![no 1 (echo profile)](https://github.com/user-attachments/assets/a17e8fda-234c-4039-a193-130b3ad6ad8b)
 
 
 
@@ -99,6 +100,8 @@ export PS1
 ![no 2A](https://github.com/user-attachments/assets/b23ae9cc-0af8-4e41-bb37-6124b274137d)
 
 
+
+
 b. Eksperimen hasil PS1 :
 $ PS1=“\! > “
 69 > PS1=”\d > “
@@ -107,8 +110,7 @@ Mon Sep 23 > PS1=”\t > “
 Saya=mahasiswa > PS1=”\w >”
 ~ > PS1=\h >”
 
-
-![no 2B](https://github.com/user-attachments/assets/27053cf6-4178-4b98-8f81-c7845712c594)
+![no 2b](https://github.com/user-attachments/assets/6079b069-1dde-46ce-9977-97dc1861c692)
 
 
 
@@ -120,6 +122,9 @@ Sleep 5
 clear
 
 ![no 3 ke 1](https://github.com/user-attachments/assets/32b3625a-7028-448a-9472-a3caacf954df)
+
+
+![no 3 ke 2](https://github.com/user-attachments/assets/e90e46ee-887c-4346-8cfb-41225d4030f6)
 
 
 ![no 3 ke 2](https://github.com/user-attachments/assets/c77a6a4e-1405-4859-b2d5-6293f49a13dc)
