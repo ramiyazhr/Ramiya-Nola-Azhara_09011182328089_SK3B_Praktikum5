@@ -265,6 +265,7 @@ $ h
 
 
 
+
 **b.** Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang terakhir dilakukan
 
 $ !-5
