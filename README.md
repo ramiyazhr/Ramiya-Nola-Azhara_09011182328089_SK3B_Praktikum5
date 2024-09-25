@@ -300,3 +300,7 @@ $ !150
 $ !ls
 
 ![no 6e](https://github.com/user-attachments/assets/86e2b46b-a4f5-4bad-a3bb-e94b6a19a691)
+
+
+
+
