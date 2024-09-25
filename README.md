@@ -6,7 +6,7 @@
 
 ### Tugas
 
-**1. Eksekusi seluruh profile yang ada :**
+## **1. Eksekusi seluruh profile yang ada :**
    
 a. Edit file profile /etc/profile dan tampilkan pesan sebagai berikut :
 **echo “Profile dari /etc/profile”**
@@ -18,10 +18,15 @@ a. Edit file profile /etc/profile dan tampilkan pesan sebagai berikut :
 
 
 b. Asumsi nama anda stD02001, maka edit semua profile yang ada yaitu :
+
 /home/stD02001/.bash_profile
+
 /home/. stD02001/.bash_login
+
 /home/mahasiswa/.profile
+
 /home/mahasiswa/.bashrc
+
 Ganti nama /home/mahasiswa dengan nama anda sendiri. Pada setiap
 file tersebut, cantumkan instruksi echo, misalnya pada /home/ mahasiswa/.bash_profile :
 **echo “Profile dari .bash_profile”**
@@ -61,15 +66,17 @@ bersangkutan.
 
 
 c. Jalankan instruksi subtitute user, kemudian keluar dengan perintah exit sebagai berikut:
-**$ su mahasiswa
-$ exit**
+****$ su mahasiswa**
+
+**$ exit****
 
 ![1C (su vboxuser)](https://github.com/user-attachments/assets/25127776-856c-457b-981b-ba5634662047)
 
 kemudian gunakan opsi – sebagai berikut :
 
-**$ su – mahasiswa
-$ exit**
+**$ su – mahasiswa**
+
+**$ exit**
 
 ![1C (su - vboxuser)](https://github.com/user-attachments/assets/4a4c648d-c48d-4ea8-bfc2-5e3ab35f9283)
 
@@ -79,7 +86,7 @@ Jelaskan perbedaan kedua utilitas tersebut.
 
 
 
-**2. Prompt String (PS)**
+## **2. Prompt String (PS)**
    
 a. Edit file .bash_profile, ganti prompt PS1 dengan ‘>’. Instruksi export diperlukan dengan
 parameter nama variable tersebut, agar perubahan variable PS1 dikenal oleh semua shell
@@ -104,7 +111,7 @@ Saya=mahasiswa > PS1=”\w >”
 
 
 
-**3. Logout**
+## **3. Logout**
 
 Edit file .bash_logout, tampilkan pesan dan tahan selama 5 detik, sebelum eksekusi logout
 Echo “Terima kasih atas sesi yang diberikan”
@@ -118,12 +125,16 @@ clear
 
 
 
-**4. Bash script**
+## **4. Bash script**
 
 a. Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing :
+
 **p1.sh**
+
 #! /bin/bash
+
 echo “Program p1”
+
 ls –l
 
 ![no 4a (membuat p1)](https://github.com/user-attachments/assets/186f5321-a234-4db7-99b4-db85b1e22c6a)
@@ -133,8 +144,11 @@ ls –l
 
 
 **p2.sh**
+
 #! /bin/bash
+
 echo “Program p2”
+
 who
 
 ![no 4a (membuat p2)](https://github.com/user-attachments/assets/f6b1c215-b26d-4496-8767-b6b37cd419f3)
@@ -144,8 +158,11 @@ who
 
 
 **p3.sh**
+
 #! /bin/bash
+
 echo “Program p3”
+
 ps x
 
 
@@ -157,20 +174,23 @@ ps x
 
 b. Jalankan script tersebut sebagai berikut :
 
-$ ./p1.sh ; ./p3.sh ; ./p2.sh
+**$ ./p1.sh ; ./p3.sh ; ./p2.sh**
+
+![no 4b (urutan 1)](https://github.com/user-attachments/assets/8a0ab9eb-ba5c-4a7c-8fc2-94102e2bc633)
+
+![no 4b (urutan 2)](https://github.com/user-attachments/assets/5ce9f2df-a92d-4565-a705-b20041546bec)
+
+![no 4b (urutan 3)](https://github.com/user-attachments/assets/c17bd95a-8c25-4c12-91ec-e73eb3bb92ac)
+
+
+**$ ./p1.sh &**
 
 
 
 
 
-$ ./p1.sh &
+**$ ./p1.sh $ ./p2.sh & ./p3.sh &**
 
-
-
-
-
-
-$ ./p1.sh $ ./p2.sh & ./p3.sh &
 
 
 
