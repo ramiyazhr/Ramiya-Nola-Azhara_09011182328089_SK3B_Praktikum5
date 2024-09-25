@@ -53,7 +53,7 @@ bersangkutan.
 ![no 1 (sudo nano profile)](https://github.com/user-attachments/assets/0ea3a9ac-dcbc-4045-bd4f-e668bc4b5a91)
 
 
-![no 1 (echo bash profile)](https://github.com/user-attachments/assets/757b825d-c262-40ff-8c56-1b82ffce50c6)
+
 
 
 **/home/mahasiswa/.bashrc**
@@ -263,6 +263,7 @@ $ HISTSIZE=20
 
 $ h
 
+![no 6a](https://github.com/user-attachments/assets/2378f1db-cd96-41f3-848f-1d1be8da388a)
 
 
 
@@ -270,6 +271,7 @@ $ h
 
 $ !-5
 
+![no 6b](https://github.com/user-attachments/assets/58427641-3d2d-4617-9a38-c86d1ac2ab39)
 
 
 
@@ -277,6 +279,7 @@ $ !-5
 
 $ !!
 
+![no 6c](https://github.com/user-attachments/assets/6c568695-5631-4990-9cd0-7a4164dd5af3)
 
 
 
@@ -284,7 +287,12 @@ $ !!
 
 $ !150
 
+![no 6d](https://github.com/user-attachments/assets/4e2e9d8b-3c9a-4bde-9585-3a229016d9ed)
+
+
 
 **e.** Ulangi instruksi dengan prefix “ls”
 
 $ !ls
+
+![no 6e](https://github.com/user-attachments/assets/86e2b46b-a4f5-4bad-a3bb-e94b6a19a691)
