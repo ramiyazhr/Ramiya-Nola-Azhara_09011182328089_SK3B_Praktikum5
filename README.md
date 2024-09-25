@@ -124,7 +124,6 @@ clear
 ![no 3 ke 1](https://github.com/user-attachments/assets/32b3625a-7028-448a-9472-a3caacf954df)
 
 
-![no 3 ke 2](https://github.com/user-attachments/assets/e90e46ee-887c-4346-8cfb-41225d4030f6)
 
 
 ![no 3 ke 2](https://github.com/user-attachments/assets/c77a6a4e-1405-4859-b2d5-6293f49a13dc)
