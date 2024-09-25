@@ -66,9 +66,10 @@ bersangkutan.
 
 
 c. Jalankan instruksi subtitute user, kemudian keluar dengan perintah exit sebagai berikut:
-****$ su mahasiswa**
 
-**$ exit****
+**$ su mahasiswa**
+
+**$ exit**
 
 ![1C (su vboxuser)](https://github.com/user-attachments/assets/25127776-856c-457b-981b-ba5634662047)
 
@@ -254,3 +255,35 @@ $ kill [Nomor PID]
 
 
 
+## **6. History**
+
+**a.** Ganti nilai HISTSIZE dari 1000 menjadi 20
+
+$ HISTSIZE=20
+
+$ h
+
+
+
+**b.** Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang terakhir dilakukan
+
+$ !-5
+
+
+
+
+**c.** Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pada history bufer
+
+$ !!
+
+
+
+
+**d.** Ulangi instruksi pada history bufer nomor 150
+
+$ !150
+
+
+**e.** Ulangi instruksi dengan prefix “ls”
+
+$ !ls
